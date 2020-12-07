@@ -1,5 +1,4 @@
-# README.md 
---
+# README.md for HMM Maze
 
 To run the maze program visit the `test_maze.py` script which runs the HMM localizer as well as creates a Maze object (uncomment whichever maze you would like to use). In order to change the starting location of the robot or create your own maze, please go to one of the `.maz` files and change it accordingly. 
 
